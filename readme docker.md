@@ -1,13 +1,13 @@
 docker info
-![alt text](file:///c%3A/Users/dell/Desktop/docker%20image/docker%20info.png)
+![alt text](docker%20image/docker%20info.png)
 docker ps
-![alt text](file:///c%3A/Users/dell/Desktop/docker%20image/docker%20ps.png)
+![alt text](docker%20image/docker%20ps.png)
 docker images
-![alt text](file:///c%3A/Users/dell/Desktop/docker%20image/docker%20image.png)
+![alt text](docker%20image/docker%20image.png)
 docker run
-![alt text](file:///c%3A/Users/dell/Desktop/docker%20image/docker%20run.png)
+![alt text](docker%20image/docker%20run.png)
 docker stop
-![alt text](file:///c%3A/Users/dell/Desktop/docker%20image/docker%20stop%20et%20supprimer.png)
+![alt text](docker%20image/docker%20stop%20et%20supprimer.png)
 construire container docker
 docker run -it --rm -p 8089 “-f”
 arreter container docker
